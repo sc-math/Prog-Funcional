@@ -7,4 +7,5 @@ Primeiro trabalho da disciplina de Programação Funcial
 
 Criar um porquinho eletronico para guardar dinheiro
 
-Para mais informações sobre o trabalho, verificar o arquivo 
+Para mais informações sobre o trabalho, verificar o arquivo EP1.pdf
+
